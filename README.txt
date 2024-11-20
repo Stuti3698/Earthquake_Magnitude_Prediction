@@ -1,6 +1,6 @@
 # Earthquake Magnitude Prediction
 
-This repository contains the implementation of **Earthquake Magnitude Prediction** using multiple machine learning and deep learning techniques.The aim of this project is
+This repository contains the implementation of Earthquake Magnitude Prediction using multiple machine learning and deep learning techniques.The aim of this project is
 to build predictive models that estimate earthquake magnitudes based on various geological and geographical features.
 
 
